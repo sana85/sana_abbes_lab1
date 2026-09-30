@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+matplotlib
+scikit-learn
+tiktoken
+groq
+sentence-transformers
+transformers
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
